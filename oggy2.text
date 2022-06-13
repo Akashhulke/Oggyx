@@ -1,3 +1,7 @@
 I'm adding this line on GitHub server.
+<<<<<<< HEAD
 Now I'm learing how to manage chages which are being simultaniously done on 
 local repository and remotre repository. 
+=======
+Hey man I've already edited this on local repository. 
+>>>>>>> a1305755da2f20292d1d31de4cd5f76eb63ee8f1
