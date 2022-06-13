@@ -1,8 +1,5 @@
 I'm adding this line on GitHub server.
 I'm now adding this line at local reposiotry. 
-<<<<<<< HEAD
 Now I'm learing how to manage chages whch are being simultaniously done on 
-local repository and remotre repository. 
-=======
-Hey man I've already edited this on local repository. 
->>>>>>> a1305755da2f20292d1d31de4cd5f76eb63ee8f1
+local repository and remotre repository.
+Hey man I've already edited this on local repository.
